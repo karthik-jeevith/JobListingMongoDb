@@ -1,5 +1,9 @@
 # Getting Started
 
+
+### Goal
+* Goal of this project is create or make update in job listing using mongodb. and make a "search option"
+* based on the mongo db database entry's keywords.
 ### Instructions
 * Use mobile hotspot to connect swagger as mongodb allows that connection only.
 * Do not forget to add the current ip addres in "cloud mongo db"   :)
